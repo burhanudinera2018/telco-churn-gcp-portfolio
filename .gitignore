@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets & credentials
+*.json
+*.key
+*.pem
+service-account-key.json
+
+# Data files (jika ada)
+*.csv
+*.pkl
+
+# Logs
+*.log
+logs/
+
+# Local config
+.env
+.local
