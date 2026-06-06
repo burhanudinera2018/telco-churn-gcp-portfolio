@@ -172,7 +172,7 @@ gcloud auth application-default login
 jupyter notebook
 
 # 5. Run    
-
+```
 ---
 
 ## 👨‍💻 About the Author
@@ -180,9 +180,9 @@ Burhanudin Badiuzaman
 
 Target Role: Senior Data Scientist / AI Engineer
 
-LinkedIn: linkedin.com/in/burhanudin-badiuzaman
+LinkedIn: [linkedin.com/in/burhanudin-badiuzaman](https://www.linkedin.com/in/burhanudin-badiuzaman4a9204161/)
 
-GitHub: github.com/burhanudinera2018
+GitHub: [github.com/burhanudinera2018](https://github.com/burhanudinera2018/telco-churn-gcp-portfolio)
 
 Email: burhanudinera2018@gmail.com
 
