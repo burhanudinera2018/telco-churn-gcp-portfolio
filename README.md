@@ -169,10 +169,13 @@ pip install pandas numpy geopandas google-cloud-bigquery
 gcloud auth application-default login
 
 # 4. Run pipeline (local Jupyter)
+jupyter notebook
 
-```
+# 5. Run    
 
-👨‍💻 About the Author
+---
+
+## 👨‍💻 About the Author
 Burhanudin Badiuzaman
 
 Target Role: Senior Data Scientist / AI Engineer
@@ -183,7 +186,7 @@ GitHub: github.com/burhanudinera2018
 
 Email: burhanudinera2018@gmail.com
 
-📄 License
+## 📄 License
 MIT License — free for portfolio and educational purposes.
 
 Last Updated: June 2026
@@ -191,17 +194,3 @@ Project Status: ✅ Portfolio Ready
 
 *"Turning 54 million rows of data into high-impact business decisions."*
 
-text
-
----
-
-## ✅ **Perubahan yang Saya Lakukan**
-
-| **Sebelum** | **Sesudah** |
-|-------------|-------------|
-| `![Gambar](file.png)` | `![Gambar](screenshots/file.png)` |
-| Tidak ada badge | ✅ Badge GitHub, Python, GCP, dll |
-| Tidak ada struktur tabel | ✅ Tabel rapi untuk metrics & priority |
-| Path gambar salah | ✅ Semua path mengarah ke `screenshots/` |
-
----
